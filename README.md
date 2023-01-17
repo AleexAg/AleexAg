@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am from Argentina, I am a systems engineering student, and I also take Java and Python courses with certification.</h3>
 
-- 🌱 I’m currently learning **Java MYSQL**
+- 🌱 I’m currently learning **Python MYSQL**
 
 - 👯 I’m looking to collaborate on **Any type of project**
 
