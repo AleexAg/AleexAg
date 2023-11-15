@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aguirrealex02" target="blank"><img src="https://img.shields.io/twitter/follow/aguirrealex02?logo=twitter&style=for-the-badge" alt="aguirrealex02" /></a> </p>
 
-- 🌱 I’m currently learning **Django rest framework, Java, SQL**
-
-- 👯 I’m looking to collaborate on **ecommerce project**
+- 🌱 I’m currently learning **Django rest framework, avascript, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AleexAg](https://github.com/AleexAg)
 
-- 💬 Ask me about **Python, SQL, GIT, Django**
+- 💬 Ask me about **Python, SQL, GIT, Django, javascript**
 
 - 📫 How to reach me **aguirrealex052@gmail.com**
 
